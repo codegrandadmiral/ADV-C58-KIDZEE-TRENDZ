@@ -1,0 +1,34 @@
+body {
+    text-align:center;
+    background:Linear-gradient(#f8e17d 0%,#7cf7f3 100%)
+}
+#title1 {
+   font-size:50px;
+    font-family: 'Neonderthaw', cursive;
+    font-weight: 700;
+    margin-left: 50px;
+}
+#kids {
+    height: 300px;
+    border-radius:150px;
+}
+#epic {
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+#size {
+    width: 700px;
+    height: 200px;
+    margin-left: 400px;
+    background-color: aqua;
+    border-radius: 20px;
+}
+.top {
+    list-style: none;
+    font-family: 'Fuzzy Bubbles', cursive;
+    float: right;
+    padding: 10px;
+    margin-top: -30px;
+    
+}
